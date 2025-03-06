@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "leanring1象棋", "leanring1象棋.vcxproj", "{D1A02D4E-1D9A-4295-B8B8-4B2E1EA5730D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1A02D4E-1D9A-4295-B8B8-4B2E1EA5730D}.Debug|x64.ActiveCfg = Debug|x64
+		{D1A02D4E-1D9A-4295-B8B8-4B2E1EA5730D}.Debug|x64.Build.0 = Debug|x64
+		{D1A02D4E-1D9A-4295-B8B8-4B2E1EA5730D}.Debug|x86.ActiveCfg = Debug|Win32
+		{D1A02D4E-1D9A-4295-B8B8-4B2E1EA5730D}.Debug|x86.Build.0 = Debug|Win32
+		{D1A02D4E-1D9A-4295-B8B8-4B2E1EA5730D}.Release|x64.ActiveCfg = Release|x64
+		{D1A02D4E-1D9A-4295-B8B8-4B2E1EA5730D}.Release|x64.Build.0 = Release|x64
+		{D1A02D4E-1D9A-4295-B8B8-4B2E1EA5730D}.Release|x86.ActiveCfg = Release|Win32
+		{D1A02D4E-1D9A-4295-B8B8-4B2E1EA5730D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C606B81-794E-41CE-AF24-789770A58956}
+	EndGlobalSection
+EndGlobal
